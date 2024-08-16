@@ -525,7 +525,7 @@ body.offcanvas {
 .timeline-centered .timeline-entry {
   position: relative;
   margin-top: 5px;
-  margin-left: 30px;
+  margin-left: 20px;
   margin-bottom: 10px;
   clear: both; }
 
@@ -537,7 +537,7 @@ body.offcanvas {
   display: block;
   width: 40px;
   height: 40px;
-  margin-left: 8px;
+  margin-left: 1px;
   background:linear-gradient(135deg,  #FF5CCB, #FFFFFF, #FF9A8A);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -558,9 +558,9 @@ body.offcanvas {
   position: relative;
   background: #f2f3f7;
   padding: 1.5em;
-  margin-left: 60px;
-  width: 300PX;
-  height: 225PX;
+  margin-left: 50px;
+  width: 250PX;
+  height: 250PX;
   }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
