@@ -719,7 +719,9 @@ body.offcanvas {
   -webkit-box-shadow: none;
   box-shadow: none;
   background: #f2f3f7;
-  overflow: visible; }
+  overflow: visible;
+  margin-bottom: 20px;
+   }
 
 .progress-bar {
   background: #2c98f0;
@@ -735,7 +737,8 @@ body.offcanvas {
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
-  border-radius: 8px; }
+  border-radius: 8px;
+ }
   .progress-bar:after {
     position: absolute;
     top: -2px;
